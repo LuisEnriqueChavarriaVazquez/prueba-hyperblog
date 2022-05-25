@@ -1,0 +1,21 @@
+.container{
+    padding: 20px;
+    background-color: rgb(25, 49, 95);
+    margin: 0 auto;
+    border-radius: 20px;
+}
+
+.title{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+}
+
+.texto{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    margin: 30px;
+}
+
+*{
+    color: aliceblue;
+}
