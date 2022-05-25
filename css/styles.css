@@ -5,6 +5,12 @@
     border-radius: 20px;
 }
 
+.navbar{
+    background-color: crimson !important;
+    border-radius: 10px !important;
+    box-shadow: 0 2px 10px rgb(82, 82, 82);
+}
+
 .title{
     font-family: 'Courier New', Courier, monospace;
     font-size: 30px;
