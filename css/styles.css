@@ -16,6 +16,20 @@
     margin: 30px;
 }
 
+.textoParrafo{
+    color: aliceblue !important;
+    font-weight: 600 !important;
+}
+
+.parrafoContainer{
+    background-color: rgb(27, 68, 70) !important;
+}
+
 *{
     color: aliceblue;
+}
+
+body{
+    padding: 20px;
+    background-color: rgb(189, 189, 189) ;
 }
